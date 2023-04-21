@@ -30,7 +30,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '肿琰琰', year: '2002', date: '06-23',
+          type: '*生日', name: '琰琰', year: '2002', date: '06-23',
         },
         {
           type: '节日', name: '相识纪念日', year: '2023', date: '01-28',
