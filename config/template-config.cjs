@@ -2,7 +2,7 @@
 const TEMPLATE_CONFIG = [
   {
     id: '0001',
-    title: '亲爱的, 早上好',
+    title: '肿琰琰, 快起来啦',
     desc: `
       **{{date.DATA}}**
       
@@ -32,7 +32,7 @@ const TEMPLATE_CONFIG = [
       
       {{moment_copyrighting.DATA}}
       
-      {{poetry_title.DATA}} {{poetry_content.DATA}}
+      {{earthy_love_words.DATA}}
     `
   },
   {
