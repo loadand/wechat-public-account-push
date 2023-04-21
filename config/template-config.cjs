@@ -30,7 +30,7 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      {{one_talk.DATA}}
+      {{moment_copyrighting.DATA}}
       
       {{earthy_love_words.DATA}}
     `
